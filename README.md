@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Daniel Costa
 
-### Professor & Software Developer
+### Teacher & Software Developer
 
 I’m a software developer and teacher passionate about technology, education, and building useful digital solutions.
 
